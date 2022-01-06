@@ -1,3 +1,9 @@
+# Web Development Technology - Experiment - Good Community - Backend
+## Instruction
+```
+python app.py
+```
+
 # 《好社区》原型系统
 ## 一、数据库部分
 

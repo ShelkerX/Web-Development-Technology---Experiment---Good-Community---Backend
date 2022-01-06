@@ -276,4 +276,3 @@ if __name__ == '__main__':
     # table_update(1, ('u001', 'admin123', '16630731691'))
     # table_update(1, ('u001', 'admin', '18610750900'))
     print(table_count(1))
-    # print(table_count(5))
